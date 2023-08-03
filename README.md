@@ -1,8 +1,7 @@
-![Screenshot 2023-06-29 175453](https://github.com/okmynameissnp/FilmBookingApp_Angular_springboot_mysql/assets/127888207/e69bc7e5-b608-4c50-80e7-1e3023a39800)# FilmBookingApp_Angular_springboot_mysql
+# FilmBookingApp_Angular_springboot_mysql
 
 ## Project Walkthrough
-
-![Uploading Screenshot 2023-08-03 131436.png…]()
+"C:\Users\N S Prasanna Kumar\Pictures\Screenshots\Screenshot 2023-08-03 131436.png"
 
 
 # Angular
