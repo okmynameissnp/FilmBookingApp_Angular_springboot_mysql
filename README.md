@@ -1,10 +1,8 @@
 # FilmBookingApp_Angular_springboot_mysql
 
-
-
-
 ## Project Walkthrough
-![1walkthrough](video/project.gif).
+![1walkthrough](video/![2023-04-27](https://github.com/okmynameissnp/FilmBookingApp_Angular_springboot_mysql/assets/127888207/21326dac-c4da-49ba-8a0a-bb387ad05e7a)
+ ).
 
 # Angular
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.3.
