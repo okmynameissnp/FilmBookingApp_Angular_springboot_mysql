@@ -1,0 +1,143 @@
+/*.wrapper{
+    background-color: #ff4f5a;
+    clip-path: polygon(0 16%, 100% 0, 100% 84%, 0% 100%);
+}
+
+.formwrapper{
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+.button{
+    margin-left: 7px;
+    margin-right: 7px;
+    border: none;
+    width: 150px;
+    color: white;
+    height: 35px;
+    background-color: #ff4f5a;
+    font-weight: 900;
+    border-radius: 5px;
+    box-shadow: 1px 1px 5px rgba(128, 128, 128, 0.589);
+}
+
+.input{
+    margin-top: 10px;
+    padding: 5px 10px;
+    border: none;
+    width: 290px;
+    border-bottom: 1px solid #1b2f36;
+    color: black;
+    transition: all .2s ease-in-out;
+}
+
+.input:focus{
+    border: none;
+    outline: none;
+    border-bottom: 1px solid #ff4f5a;   
+}*/
+
+/*Karthi*/
+body{
+    font-family: sans-serif;
+}
+.row{
+    margin-top: auto;
+    margin-bottom: auto;
+    text-align: justify;
+    margin-left: -8%;
+}
+.image img{
+    height : 500px;
+    background-color: black;
+}
+@media screen and (max-width:768px){
+    .image{
+            display: none;
+    }
+}
+.profile{
+    text-align: center; 
+}
+.profile img{
+    width: 90px;
+    height: 90px;
+    box-shadow: 2px 2px  gray;
+    border-radius: 50%;
+}
+.form{
+    text-align: center;
+    font-size: 25px;
+    position: relative;
+}
+i{
+    font-size: 30px;
+    color: #00BFA6;
+}
+.form-control{
+    border-radius: 0px;
+    text-align: center;
+    text-decoration: none;
+}
+.form-control:focus{
+    padding: 15px;
+}
+.forgot{
+    font-size: 20px;
+    text-align: center;
+    width: 50%;
+    float: right;
+}
+.forgot a{
+    color :aliceblue;
+}
+
+.container{
+    margin-top:11%;
+}
+h1{
+    font-size:55px;
+    text-align: center; 
+    font-weight: bold;
+    color: aliceblue;
+    letter-spacing: 65px;
+}
+ .hi{   
+
+    background: rgb(6,246,34);
+    background: linear-gradient(60deg, rgba(6,246,34,1) 28%, rgba(41,228,154,1) 65%);
+    width:185px;
+    height:55px;
+    color:black;
+    align-items: center;
+    text-decoration:center;
+    margin:20px auto;
+    letter-spacing: 12px;
+    font-weight:bolder;
+    font-size:15px;
+    text-transform: uppercase;
+    background: transparent;
+    
+}
+.hi:hover{
+    text-transform: uppercase;
+    border-radius:25px;
+    color:white;
+    font-weight:bolder;
+    background: rgb(44,27,42);
+background: linear-gradient(90deg, rgba(44,27,42,1) 37%, rgba(228,25,73,1) 63%);
+    letter-spacing: 10px;
+    font-size:20px;
+}
+.oo{
+    color:aliceblue;
+}
+.vv{
+    background: transparent;
+    border:8px;
+    text-align: center;
+    font-weight: bolder;
+    color:aliceblue;  
+}
+

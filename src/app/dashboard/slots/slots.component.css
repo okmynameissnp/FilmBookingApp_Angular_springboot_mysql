@@ -1,0 +1,24 @@
+.button{
+    margin-left: 160%;
+    border: none;
+    width: 120px;
+   color:aliceblue;
+    height: 45px;
+    background: rgb(9,28,17);
+    background: linear-gradient(90deg, rgba(9,28,17,1) 23%, rgba(79,124,10,1) 47%);
+    font-weight: 900;
+    border-radius: 5px;
+    margin-top: 10px;
+    letter-spacing: 5px;
+    
+}
+.image{
+    margin-left: 80%;
+}
+::-webkit-scrollbar {
+    width: 0px;
+    background: transparent; /* make scrollbar transparent */
+}
+.card{
+    margin-bottom: 6%;
+}
