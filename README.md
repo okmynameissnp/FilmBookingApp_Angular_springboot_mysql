@@ -1,4 +1,4 @@
-# Online-Movie-Ticket-Booking
+# FilmBookingApp_Angular_springboot_mysql
 
 ## Project Walkthrough
 ![1walkthrough](video/project.gif).
