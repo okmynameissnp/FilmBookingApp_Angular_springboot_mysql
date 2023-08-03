@@ -1,7 +1,7 @@
 # FilmBookingApp_Angular_springboot_mysql
 
 ## Project Walkthrough
-Home
+
 ![Uploading Screenshot 2023-08-03 131436.png…]()
 
 
