@@ -2,8 +2,7 @@
 
 ## Project Walkthrough
 
-"C:\Users\N S Prasanna Kumar\Pictures\Screenshots\Screenshot 2023-08-03 131436.png"
-
+![Uploading Screenshot 2023-08-03 131436.png…]()
 
 
 # Angular
