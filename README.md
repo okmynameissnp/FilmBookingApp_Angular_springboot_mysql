@@ -40,5 +40,5 @@ mvn spring-boot:run
 
 ## Credits
 
-	Thanks to Raghul Thangavel.His Car Parking Project Helped Me to Convert Into this One. 
+	Thanks to ANUDIP FOUNDATION AND MY TEACHER SHIVA SIR ,AND MY FRIENDS Pradeep,Gagan,Mahesh to bring this project to limelight.
 
